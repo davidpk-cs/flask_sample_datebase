@@ -1,0 +1,254 @@
+('Steve Smith', 211, 80)
+('Jian Wong', 122, 92)
+('Chris Peterson', 213, 91)
+['David ', '177', '98']
+<class 'list'>
+dog
+('Steve Smith', 211, 80)
+('Jian Wong', 122, 92)
+('Chris Peterson', 213, 91)
+('David ', 177, 98)
+<class 'str'>
+fish
+('Steve Smith', 211, 80)
+('Chris Peterson', 213, 91)
+('David ', 177, 98)
+['David', 'Search Name']
+('Steve Smith', 211, 80)
+('Jian Wong', 122, 92)
+('Chris Peterson', 213, 91)
+['David', 'Search Name']
+('Steve Smith', 211, 80)
+('Jian Wong', 122, 92)
+('Chris Peterson', 213, 91)
+('Steve Smith', 211, 80)
+('Jian Wong', 122, 92)
+('Chris Peterson', 213, 91)
+('Steve Smith', 211, 80)
+('Jian Wong', 122, 92)
+('Chris Peterson', 213, 91)
+('Steve Smith', 211, 80)
+('Jian Wong', 122, 92)
+('Chris Peterson', 213, 91)
+['Sunk Loon', '1232', '45']
+<class 'list'>
+dog
+('Steve Smith', 211, 80)
+('Jian Wong', 122, 92)
+('Chris Peterson', 213, 91)
+('Sunk Loon', 1232, 45)
+['Sunk Loon', '1232', '45']
+<class 'list'>
+dog
+<class 'str'>
+fish
+('Jian Wong', 122, 92)
+('Chris Peterson', 213, 91)
+('Sunk Loon', 1232, 45)
+('Sunk Loon', 1232, 45)
+<class 'str'>
+fish
+('Jian Wong', 122, 92)
+('Sunk Loon', 1232, 45)
+('Sunk Loon', 1232, 45)
+['Wong', 'Search ID']
+('Jian Wong', 122, 92)
+('Sunk Loon', 1232, 45)
+('Sunk Loon', 1232, 45)
+['Sunk Loon', '1232', '45']
+<class 'list'>
+dog
+['Sunk Loon', '1232', '45']
+<class 'list'>
+dog
+['Sunk Loon', '1232', '45']
+<class 'list'>
+dog
+['Sunk Loon', '1232', '45']
+<class 'list'>
+dog
+['Sunk Loon', '1232', '45']
+<class 'list'>
+dog
+['Sunk Loon', '1232', '45']
+<class 'list'>
+dog
+['Sunk Loon', '1232', '45']
+<class 'list'>
+dog
+('Jian Wong', 122, 92)
+('Sunk Loon', 1232, 45)
+('Sunk Loon', 1232, 45)
+('Sunk Loon', 1232, 45)
+('Sunk Loon', 1232, 45)
+('Sunk Loon', 1232, 45)
+('Sunk Loon', 1232, 45)
+('Sunk Loon', 1232, 45)
+('Sunk Loon', 1232, 45)
+('Sunk Loon', 1232, 45)
+('Jian Wong', 122, 92)
+('Sunk Loon', 1232, 45)
+('Sunk Loon', 1232, 45)
+('Sunk Loon', 1232, 45)
+('Sunk Loon', 1232, 45)
+('Sunk Loon', 1232, 45)
+('Sunk Loon', 1232, 45)
+('Sunk Loon', 1232, 45)
+('Sunk Loon', 1232, 45)
+('Sunk Loon', 1232, 45)
+('Jian Wong', 122, 92)
+('Sunk Loon', 1232, 45)
+('Sunk Loon', 1232, 45)
+('Sunk Loon', 1232, 45)
+('Sunk Loon', 1232, 45)
+('Sunk Loon', 1232, 45)
+('Sunk Loon', 1232, 45)
+('Sunk Loon', 1232, 45)
+('Sunk Loon', 1232, 45)
+('Sunk Loon', 1232, 45)
+('Steve Smith', 211, 80)
+('Jian Wong', 122, 92)
+('Chris Peterson', 213, 91)
+['Sunk Loon', '1232', '45']
+<class 'list'>
+dog
+['Sunk Loon', '1232', '45']
+<class 'list'>
+dog
+['Sunk Loon', '1232', '45']
+<class 'list'>
+dog
+('Steve Smith', 211, 80)
+('Jian Wong', 122, 92)
+('Chris Peterson', 213, 91)
+('Sunk Loon', 1232, 45)
+('Steve Smith', 211, 80)
+('Jian Wong', 122, 92)
+('Chris Peterson', 213, 91)
+('Sunk Loon', 1232, 45)
+('Steve Smith', 211, 80)
+('Jian Wong', 122, 92)
+('Chris Peterson', 213, 91)
+['Sunk Loon', '1232', '45']
+<class 'list'>
+dog
+['Sunk Loon', '1232', '45']
+<class 'list'>
+dog
+['Sunk Loon', '1232', '45']
+<class 'list'>
+dog
+['Sunk Loon', '1232', '45']
+<class 'list'>
+dog
+['Sunk Loon', '1232', '45']
+<class 'list'>
+dog
+['Sunk Loon', '1232', '45']
+<class 'list'>
+dog
+('Steve Smith', 211, 80)
+('Jian Wong', 122, 92)
+('Chris Peterson', 213, 91)
+('Sunk Loon', 1232, 45)
+['Sunk Loon', '1232', '45']
+<class 'list'>
+dog
+['Sunk Loon', '1232', '45']
+<class 'list'>
+dog
+['Sunk Loon', '1232', '45']
+<class 'list'>
+dog
+['Sunk Loon', '1232', '45']
+<class 'list'>
+dog
+('Steve Smith', 211, 80)
+('Jian Wong', 122, 92)
+('Chris Peterson', 213, 91)
+('Sunk Loon', 1232, 45)
+<class 'str'>
+fish
+('Steve Smith', 211, 80)
+('Jian Wong', 122, 92)
+('Sunk Loon', 1232, 45)
+['Wong', 'Search ID']
+['Wong', 'Search Name']
+('Steve Smith', 211, 80)
+('Jian Wong', 122, 92)
+('Sunk Loon', 1232, 45)
+('Steve Smith', 211, 80)
+('Jian Wong', 122, 92)
+('Chris Peterson', 213, 91)
+('Steve Smith', 211, 80)
+('Jian Wong', 122, 92)
+('Chris Peterson', 213, 91)
+<class 'str'>
+fish
+<class 'str'>
+fish
+<class 'str'>
+fish
+<class 'str'>
+fish
+<class 'str'>
+fish
+<class 'str'>
+fish
+<class 'str'>
+fish
+<class 'str'>
+fish
+<class 'str'>
+fish
+('Steve Smith', 211, 80)
+('Jian Wong', 122, 92)
+('Chris Peterson', 213, 91)
+('Steve Smith', 211, 80)
+('Jian Wong', 122, 92)
+('Chris Peterson', 213, 91)
+<class 'str'>
+fish
+('Steve Smith', 211, 80)
+('Jian Wong', 122, 92)
+('Chris Peterson', 213, 91)
+('Steve Smith', 211, 80)
+('Jian Wong', 122, 92)
+('Chris Peterson', 213, 91)
+('Steve Smith', 211, 80)
+('Jian Wong', 122, 92)
+('Chris Peterson', 213, 91)
+('Steve Smith', 211, 80)
+('Jian Wong', 122, 92)
+('Chris Peterson', 213, 91)
+('Steve Smith', 211, 80)
+('Jian Wong', 122, 92)
+('Chris Peterson', 213, 91)
+('Steve Smith', 211, 80)
+('Jian Wong', 122, 92)
+('Chris Peterson', 213, 91)
+['Fish', '33', '44']
+<class 'list'>
+dog
+('Steve Smith', 211, 80)
+('Jian Wong', 122, 92)
+('Chris Peterson', 213, 91)
+('Fish', 33, 44)
+<class 'str'>
+fish
+('Steve Smith', 211, 80)
+('Jian Wong', 122, 92)
+('Fish', 33, 44)
+('Steve Smith', 211, 80)
+('Jian Wong', 122, 92)
+('Fish', 33, 44)
+['Wong', 'Search Name']
+('Steve Smith', 211, 80)
+('Jian Wong', 122, 92)
+('Fish', 33, 44)
+('Steve Smith', 211, 80)
+('Jian Wong', 122, 92)
+('Chris Peterson', 213, 91)
+('Steve Smith', 211, 80)
+('Jian Wong', 122, 92)
+('Chris Peterson', 213, 91)

@@ -1,0 +1,88 @@
+.functionBox{
+    background-color: rgb(201, 246, 231);
+    margin:20px;
+    display:flex;
+    justify-content:space-evenly;
+    flex-wrap:wrap;
+    max-width:250px;
+    max-height:150px;
+
+}
+
+body{
+    background-color:rgb(221, 255, 240);
+}
+
+footer{
+
+    background-color:rgb(201, 246, 231);
+}
+
+footer button{
+
+    margin:10px;
+    background-color:black;
+    color:white;
+}
+
+#searchBar{
+
+    display:flex;
+    justify-content:left;
+    flex-wrap:wrap;
+
+}
+
+tr th {
+    border: solid black 1px;
+}
+
+#topBar{
+
+    display:flex;
+    justify-content:left;
+    flex-wrap:wrap;
+}
+
+#refreshButton{
+
+    margin-left:25px;
+    background-color:aquamarine;
+    border-radius:15px;
+}
+
+#outerFunctionBox{
+    display:flex;
+    justify-content:space-evenly;
+    flex-wrap:wrap;
+}
+
+#fullContent{
+    display:flex;
+    justify-content: left;
+    flex-wrap:wrap;
+    margin:10px;
+}
+
+#scoreTable{
+    border: solid black 1px;
+    background-color:rgb(201, 246, 231);
+}
+
+.field{
+    margin-top:5px;
+    margin-bottom:5px;
+}
+
+
+
+.functionBox button{
+    border-radius: 25%;
+    background-color:rgb(144, 194, 194);
+    margin:10px;
+}
+
+#pageTitle{
+    text-align:center;
+    background-color:rgb(201, 246, 231);
+}

@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Flask Signal</title>
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+    <h1 id="pageTitle">GradeView</h1>
+
+    <h5 id="status">Status: No Operation Implemented Yet</h5>
+
+    <div id="topBar">
+        <div id="searchBar">
+
+            <input type="text" id="searchField">
+            <button onclick="search()" id="searchButton">Search</button>
+            <select id="searchType">
+
+                <option>Search ID</option>
+                <option>Search Score</option>
+                <option>Search Name</option>
+            </select>
+        </div>
+
+        <button id="refreshButton" onclick="loadData()">&#x21BB; Update</button>
+
+    </div>
+    
+    <div id="fullContent">
+        
+    <table id="scoreTable">
+        <tr>
+            <th>Name</th>
+            <th>ID</th>
+            <th>Points</th>
+        </tr>
+    </table>
+
+    <div id="outerFunctionBox">
+
+    <div id="createBox" class = "functionBox">
+        
+        <div class = "field"><label for="createName">Name:</label>
+            <input type="text" id="createName"></div>
+        <div class = "field"><label for="createID">Id&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:</label>
+            <input type="text" id="createID"></div>
+        <div class = "field"><label for="createScore">Score:</label>
+            <input type="text" id="createScore"></div>
+
+        <button onclick="addEntry()" class = "fieldButton">Add Student</button>
+    
+    </div>
+
+    <div id = "deleteBox" class = "functionBox">
+        <div class = "field"><label for="deleteId">ID:</label>
+            <input type="text" id="deleteID"></div>
+
+        <button onclick="deleteEntry()" class = "fieldButton">Delete Student</button>
+
+    </div>
+
+    </div>
+
+    </div>
+
+    <footer>
+
+        <p>Hit Update to Clear Search Results or See Results of Operation</p>
+
+        <button onclick="reset()">Reset To Default Database</button>
+
+        <p>Made by David Premkumar</p>
+    </footer>
+
+
+</body>
+</html>
