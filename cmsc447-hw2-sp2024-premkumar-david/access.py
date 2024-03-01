@@ -4,9 +4,6 @@ import ast
 
 app = Flask(__name__)
 
-def log(message):
-    with open('output.txt', 'a') as file:
-        file.write(str(message) + '\n')
 
 @app.route('/')
 def index():
@@ -23,12 +20,6 @@ def giveData():
 
     rows = cursor.fetchall()
 
-    # Append the data to output.txt
-    with open('output.txt', 'a') as file:
-        for row in rows:
-            file.write(str(row) + '\n')
-
-
     return jsonify(rows)
 
 @app.route('/delete', methods=['POST'])
@@ -36,9 +27,6 @@ def deleteEntry():
 
     data = request.get_json()
     userID = data.get('data')
-
-    log(type(userID))
-    log("fish")
 
     connection = sqlite3.connect('students.db')
     cursor = connection.cursor()
@@ -54,10 +42,6 @@ def addEntry():
 
     data = request.get_json()
     info = data.get('data')
-
-    log(info)
-    log(type(info))
-    log("dog")
 
     tuple_info = (info[0], int(info[1]), int(info[2]))
 
@@ -77,8 +61,6 @@ def search():
 
     data = request.get_json()
     info = data.get('data')
-
-    log(info)
 
     searchType = info[1]
 
